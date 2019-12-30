@@ -13,6 +13,8 @@ Download
 * Development builds: http://download.visicut.org/develop
 * If those don't work: https://github.com/t-oster/VisiCut/releases
 
+* Development builds, with tftp source port 69 check disabled: https://github.com/Hans-Beerman/VisiCut/releases
+
 Compiling and Hacking
 ---------------------
 https://github.com/t-oster/VisiCut/wiki/Development:-Getting-started
